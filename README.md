@@ -1,4 +1,4 @@
-# Demonstration of Shall's theorem (демонстрация теоремы Шаля)
+# Demonstration of Shall's theorem <br/> (демонстрация теоремы Шаля)
 Formulation:
 Any movement of a free solid body from one position to another during the time dt can be carried out by means of its translational movement equal to the movement of a certain point of the body and rotation around this point. <br/>
 (Формулировка:
