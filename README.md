@@ -12,3 +12,6 @@ The application of the pole is shown in red. 2D move: <br/>
 
  <br/>The coordinate system associated with the object is shown in blue. 3D move: <br/>
 ![Alt Text](https://github.com/AlexArutiunian/theor_mech/blob/main/gif3D/1_2.gif)
+![Alt Text](https://github.com/AlexArutiunian/theor_mech/blob/main/gif3D/2.gif)
+![Alt Text](https://github.com/AlexArutiunian/theor_mech/blob/main/gif3D/3.gif)
+![Alt Text](https://github.com/AlexArutiunian/theor_mech/blob/main/gif3D/4.gif)
